@@ -1,10 +1,18 @@
-# How to Invest Money in Semiconductor Companies
+# Understanding Semiconductor Companies (for Inverstor)
 
-"Welcome to my presentation on 'How to Invest Money in Semiconductor Companies.' In the next 10 minutes, I’ll share key insights about the semiconductor industry and how to invest wisely in this fast-growing field. We’ll look at the technologies driving this growth and the opportunities you can take advantage of."
+"Good morning everyone. My name is Eric and I'm from Memory Division and responsible for SSD controller development. As you can see on the screen, I want to talk about Semiconductor Companies for Inverstor. In my presentation I'll focus on three main points. 
+
+First of all I'll shortly introduce current status of semiconductor industry and future trend. Then I'll be explaining different types of semiconductor companies for better understanding of this area. Finally, I'll end with offering recommendations for inverstor.
+
+It should take around 10 minutes to cover these points. 
+
+If you have any questions, please don't hesitate to ask me during my presentation."
+
+So, let's get started.
 
 ---
 
-## 1. Introduction
+## Overview
 
 ### Key Points:
 - Global semiconductor industry expected to grow from **$573.44 billion in 2022 to $1 trillion by 2030**.
@@ -21,79 +29,72 @@
    - Graph Type: **Pie Chart**.
 
 ### Script:
-"The semiconductor industry is on an exciting growth trajectory. In 2022, it was valued at $573.44 billion, and by 2030, it is projected to reach $1 trillion, with a CAGR of 6.7%. Semiconductors are at the core of advancements in AI, electric vehicles, IoT, and 5G. In this presentation, I’ll outline the market dynamics, provide actionable investment strategies, and discuss key factors to consider before making investment decisions."
+"Let's begin by taking a look at global semiconductor industry revenue growth."
 
-"The semiconductor industry is growing rapidly. In 2022, it was worth $573 billion, and by 2030, it’s expected to reach $1 trillion, growing at 6.7% per year. Semiconductors are essential for AI, electric cars, IoT, and 5G technologies. In this presentation, I’ll explain how the market is evolving, share investment strategies, and highlight key points to consider before investing."
+"The semiconductor industry is growing rapidly. In 2022, it was worth $573 billion, and by 2030, it’s expected to reach $1 trillion. It means that we can get a lot of money by investing this area."
+
+"That's all I want to say on this slide."
+
+"Let's now move to semiconductor applications today."
+
+"Semiconductors are essential for AI, electric cars, IoT, and 5G technologies. Let's take a look at these pie chart. As you can see, AI occupies 30% of the application followed by automotive occupied 25%. And consumer eleteronics with 20%, IoT with 15% and 5G communication system occupies 10%."
+
+"I've give you a brief overview of semiconductor industry."
+
+"That leds me to the next point, which is major players in this industry."
 
 ---
 
-## 2. Semiconductor Industry Overview
+## Major Players of Semiconductor Industry
 
-### Key Points:
-#### Market Dynamics:
-- **AI Chip Market**: Projected to grow from **$16 billion in 2022** to **$227 billion by 2032** (CAGR of 30.6%).
-- **Electric Vehicles (EVs)**: Semiconductor content per EV to rise from **$500 in 2020** to **$1,000 by 2030**.
-- **IoT Devices**: Estimated to reach **29 billion connected devices by 2030**.
-- **Capital Expenditure**: Projected global semiconductor capital spending to reach **$200 billion by 2024**.
+### Kyer Points:
+1. **TSMC**
+   - TSMC dominates over 50% of the global foundry market
 
-#### Major Players:
-- **TSMC**: Over **50% global foundry market share**.
-- **NVIDIA**: Dominates AI-related GPUs with **85% market share**.
-- **Samsung Electronics**: Leader in **memory chips (40% DRAM/NAND market share)** and investing **$230 billion over 20 years**.
-- **ASML**: Sole producer of EUV lithography machines.
-- **Intel**: Leader in CPUs, expanding into foundries.
+2. **NVIDIA**
+   - NVIDIA leads AI-releated GPUs with an 85% market share.
 
-### Graph:
-1. **AI Chip Market Growth (2022-2032)**:
-   - Data: 2022: $16B, 2026: $80B, 2030: $150B, 2032: $227B.
-   - Graph Type: **Bar Chart**.
-
-2. **Semiconductor Content in EVs (2020 vs. 2030)**:
-   - Data: 2020: $500, 2030: $1,000.
-   - Graph Type: **Comparison Bar Chart**.
-
-3. **Connected IoT Devices (2020-2030)**:
-   - Data: 2020: 9.7B, 2025: 20B, 2030: 29B.
-   - Graph Type: **Line Chart**.
+3. **Samsung**
+   - Samsung holds a 40% market share in memory chips.
 
 ### Script:
-"Let’s look at the industry. The AI chip market is growing fast, from $16 billion in 2022 to $227 billion by 2032. That’s a yearly growth of over 30%. Electric cars are also driving demand. Each car will need $1,000 worth of chips by 2030. The number of IoT devices will reach 29 billion by 2030. Big companies like TSMC, NVIDIA, Samsung, ASML, and Intel are leading this growth. TSMC makes over half of the world’s chips, and NVIDIA owns 85% of the AI GPU market."
+"On this slide, we see three main companies in the semiconductor industry. First is TSMC, which holds a huge 50% of the market. TSMC is the world’s largest chip manufacturer, producing advanced semiconductors used in everything from smartphones to high-performance computers.
 
----
+Next, NVIDIA leads AI-related GPU with 85% market share. NVIDIA is known for its GPUs, which are critical for gaming, artificial intelligence, and deep learning.
 
-## 3. Key Factors to Consider Before Investing
+Lastly, Samsung has 40% of the market share in DRAM and NAND memory chips.
+
+These numbers show how a few companies control most of the market, influencing prices, technology, and the industry’s direction.
+
+Next, we’ll dive into the semiconductor supply chain."
+
+## Supply Chain in Semiconductor Industry
 
 ### Key Points:
-1. **Supply Chain Dynamics**:
-   - Fabless Companies: NVIDIA, Qualcomm, AMD.
-   - Foundries: TSMC, Samsung.
-   - Equipment Makers: ASML, Applied Materials.
-2. **Financial Metrics**:
-   - NVIDIA’s revenue surged by **84% YoY in Q3 2023**.
-   - TSMC reported **52% gross margin in 2023**.
-3. **Market Position**:
-   - TSMC leads with 3nm technology.
-   - Samsung excels in memory chip production.
-4. **Risks**:
-   - Cyclicality, geopolitical tensions, and competition.
-
-### Graph:
-1. **Revenue Growth of Major Companies (2020-2023)**:
-   - Data: NVIDIA: $10B → $26B, TSMC: $45B → $70B.
-   - Graph Type: **Bar Chart**.
-
-2. **Market Share Distribution in Foundry Industry (2023)**:
-   - Data: TSMC: 50%, Samsung: 14%, Others: 36%.
-   - Graph Type: **Pie Chart**.
+1. **Fab-less Companies**:
+   - NVIDIA, Qualcomm, AMD, ARM, Apple.
+2. **Foundry Companies**:
+   - TSMC
+   - Samsung
+   - Intel
+3. **Equipment Makers**:
+   - ASML
+   - Applied Materials
+4. **EDA Tool Makers**:
+   - Synopsys
+   - Cadence
+   - Siemens
 
 ### Script:
-"Before investing, it’s important to understand the semiconductor supply chain. Fabless companies like NVIDIA focus on designing chips, while foundries like TSMC and Samsung handle manufacturing. Equipment makers like ASML provide the machines needed for production. Another key part of the supply chain is EDA (Electronic Design Automation) tool makers, such as Synopsys, Cadence, and Mentor Graphics. These companies create the software used to design and verify advanced chips.
+"The semiconductor industry relies on four main types of companies working together. Fabless companies like NVIDIA, Qualcomm, Apple, ARM, and AMD focus on designing chips but outsource manufacturing to save costs and innovate faster. Foundries such as TSMC, Samsung, and Intel handle production, using advanced technology to create smaller, faster, and more powerful chips. Equipment makers like ASML and Applied Materials provide the machinery needed for manufacturing, driving efficiency and supporting growing demand. Finally, EDA tool makers like Synopsys, Cadence, and Siemens supply the software tools use to design complex chips quickly and effectively. Together, these players form a dynamic ecosystem that powers the semiconductor industry."
 
-Financial performance is also a key factor. For example, NVIDIA saw an 84% increase in revenue in Q3 2023, and TSMC achieved a 52% gross margin. It’s also important to consider market position—TSMC is leading in 3nm technology, while Samsung is strong in memory chips. Lastly, don’t forget to account for risks, like industry cycles and geopolitical tensions, when making your decisions."
+"I've covered supply chain of semiconductor industry. Understanding supply chain is one of the most important for better investment."
+
+"Finally, let me now turn to strategies for inversting in semiconductor industry."
 
 ---
 
-## 4. Investment Strategies
+## Investment Strategies
 
 ### Key Points:
 1. **Direct Stock Investment**:
@@ -105,48 +106,27 @@ Financial performance is also a key factor. For example, NVIDIA saw an 84% incre
 4. **Long-Term Strategy**:
    - Hold stocks for at least **5 years** for compounding growth.
 
-### Graph:
-1. **Stock Performance of TSMC and NVIDIA (5-Year Comparison)**:
-   - Data: TSMC: +170%, NVIDIA: +600%.
-   - Graph Type: **Line Chart**.
-
-2. **ETF Performance: SOXX vs. SMH (5-Year)**:
-   - Data: SOXX: +150%, SMH: +180%.
-   - Graph Type: **Line Chart**.
-
 ### Script:
-"There are several ways to invest in semiconductors. You can buy stocks directly from companies like TSMC and NVIDIA to focus on specific leaders in the field. Another option is investing in ETFs, such as SOXX or SMH, which include a mix of semiconductor companies for more diversity. It's also smart to balance these investments with stocks from other industries to lower your risk. Keep in mind, semiconductor investing is a long-term strategy. Holding stocks for at least five years can help you take advantage of the industry's growth and maximize returns over time."
+"Investing in semiconductors offers great opportunities in today’s market, and understanding key strategies can help you make smart decisions. One simple way is through direct stock investments in top companies like TSMC and NVIDIA. Another option is ETF investments, such as SOXX and SMH, which give you spread-out investments in the semiconductor sector for reducing risk. Speaking of risk, diversification is important. Balancing with other sectors can protect your portfolio from market volatility."
+
+"Last but not least, a long-term holding strategy is important. By holding semiconductor stocks for at least five years, you can make profit, even in a fluctuating market."
+
+"Finally, we have discussed all the key points. Let’s move on to the conclusion."
 
 ---
 
-## 5. Conclusion and Recommendations
+## Conclusion
 
 ### Key Points:
-#### Summary:
-- Semiconductors are the foundation of **AI, EVs, IoT, and future technologies**.
-- Investment strategies should focus on **market research, diversification, and long-term holding**.
-
-#### Recommendations:
-1. **Hold Long-Term**:
-   - NVIDIA’s stock grew by **600% in the past 5 years**.
-   - TSMC’s stock grew by **170% in the past 5 years**.
-2. **Research and Monitor**:
-   - Continuously study industry trends and company performance.
-
-#### Final Thought:
-*"Investing in semiconductors is not just about chasing profits—it’s about being part of the technological revolution shaping the next decade."*
-
-### Graph:
-1. **Compounding Growth of Semiconductor Stocks (5-Year Projection)**:
-   - Data: $100K Investment: NVIDIA: $600K, TSMC: $270K.
-   - Graph Type: **Bar Chart**.
-
-2. **Global Semiconductor Market (2022 vs. 2030)**:
-   - Data: 2022: $573.44B, 2030: $1T.
-   - Graph Type: **Bar Chart**.
+- Huge growth potential – $1 trillion market by 2030.
+- Key players in the supply chain – fabless companies and foundries.
+- Stay informed – research helps you make better decisions.
+- Investing in semiconductors means joining the future of technology."
 
 ### Script:
-"To wrap up, semiconductors are at the heart of future technologies like AI, electric cars, and smart devices. The industry is growing fast and offers great opportunities for investors. I recommend holding stocks for at least five years to get the most out of them. For example, NVIDIA’s stock went up over 600% in the last five years, and TSMC’s grew by 170%. Keeping an eye on trends and staying informed is important for success. Remember, investing in semiconductors isn’t just about making money—it’s about being part of the future of technology."
+"Semiconductor investing offers big opportunities as the market is expected to reach $1 trillion by 2030, driven by growing demand in AI, cars, and electronics.
+
+Key players include fabless companies like NVIDIA, which design chips, and foundries like TSMC, which manufacture them. Long-term investment in these companies can bring steady returns despite market ups and downs. Remember, investing in semiconductors isn’t just about making money—it’s about being part of the future of technology."
 
 ---
 
