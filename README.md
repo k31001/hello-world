@@ -147,3 +147,10 @@ Financial performance is also a key factor. For example, NVIDIA saw an 84% incre
 
 ### Script:
 "To wrap up, semiconductors are at the heart of future technologies like AI, electric cars, and smart devices. The industry is growing fast and offers great opportunities for investors. I recommend holding stocks for at least five years to get the most out of them. For example, NVIDIA’s stock went up over 600% in the last five years, and TSMC’s grew by 170%. Keeping an eye on trends and staying informed is important for success. Remember, investing in semiconductors isn’t just about making money—it’s about being part of the future of technology."
+
+---
+
+## Presentation Materials
+
+1. presentation.ai : https://app.presentations.ai/view/0UfRW4
+2. gamma.ai : https://gamma.app/docs/Investing-in-Semiconductor-Companies-c204vod8ozau10m
