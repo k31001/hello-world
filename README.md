@@ -2,7 +2,7 @@
 
 "Good morning everyone. My name is Eric and I'm from Memory Division and responsible for SSD controller development. As you can see on the screen, I want to talk about Semiconductor Companies for Inverstor. In my presentation I'll focus on three main points. 
 
-First of all I'll shortly introduce the industry trend. Then I'll explain suppli chains of semiconductor companies for better understanding of this area. Finally, I'll end with offering strategies for inverstor.
+First of all I'll shortly introduce the industry trend. Then I'll explain supply chains of semiconductor companies for better understanding of this area. Finally, I'll end with offering strategies for inverstor.
 
 It should take around 10 minutes to cover these points. 
 
@@ -35,7 +35,7 @@ So, let's get started.
 
 "That's all I want to say on this slide."
 
-"Let's now move to semiconductor applications today."
+"Let's now move on to the applications."
 
 "Semiconductors are essential for AI, electric cars, IoT, and 5G technologies. Let's take a look at the pie chart. As you can see, AI occupies 30% of the application followed by automotive occupied 25%. And consumer eleteronics with 20%, IoT with 15% and 5G communication system occupies 10%."
 
@@ -100,7 +100,7 @@ In summary, these players work together as a team, driving the growth of the sem
 
 "I've talked about supply chain. Understanding it is very important to make better investment decisions."
 
-"Finally, let me move to the strategies for inverstment."
+"Finally, let me move on to the strategies."
 
 ---
 
@@ -138,11 +138,11 @@ In summary, these players work together as a team, driving the growth of the sem
 
 And we need to understand supply chain and rememeber key players for each types of company. 
 
-Long-term investment can yeild profit despite the ups and downs in stock market.
+Long-term investment can yield profit despite the ups and downs in stock market.
 
 And please keep researching to stay updated on industry trends.
 
-Finally, please remember, investing in semiconductors isn’t just about making money—it’s about being part of technological revolution."
+Finally, please remember, investing in semiconductors is not just about making money—it’s about being part of technological revolution."
 
 ---
 
