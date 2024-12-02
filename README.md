@@ -2,7 +2,7 @@
 
 "Good morning everyone. My name is Eric and I'm from Memory Division and responsible for SSD controller development. As you can see on the screen, I want to talk about Semiconductor Companies for Inverstor. In my presentation I'll focus on three main points. 
 
-First of all I'll shortly introduce current status of semiconductor industry and future trend. Then I'll be explaining different types of semiconductor companies for better understanding of this area. Finally, I'll end with offering recommendations for inverstor.
+First of all I'll shortly introduce the industry trend. Then I'll explain suppli chains of semiconductor companies for better understanding of this area. Finally, I'll end with offering strategies for inverstor.
 
 It should take around 10 minutes to cover these points. 
 
@@ -37,7 +37,7 @@ So, let's get started.
 
 "Let's now move to semiconductor applications today."
 
-"Semiconductors are essential for AI, electric cars, IoT, and 5G technologies. Let's take a look at these pie chart. As you can see, AI occupies 30% of the application followed by automotive occupied 25%. And consumer eleteronics with 20%, IoT with 15% and 5G communication system occupies 10%."
+"Semiconductors are essential for AI, electric cars, IoT, and 5G technologies. Let's take a look at the pie chart. As you can see, AI occupies 30% of the application followed by automotive occupied 25%. And consumer eleteronics with 20%, IoT with 15% and 5G communication system occupies 10%."
 
 "I've give you a brief overview of semiconductor industry."
 
@@ -58,9 +58,9 @@ So, let's get started.
    - Samsung holds a 40% market share in memory chips.
 
 ### Script:
-"On this slide, we see three main companies in the semiconductor industry. First is TSMC, which holds a huge 50% of the market. TSMC is the world’s largest chip manufacturer, producing advanced semiconductors used in everything from smartphones to high-performance computers.
+"On this slide, we see three main companies in the semiconductor industry. First is TSMC, which holds a huge 50% of the market. TSMC is the world’s largest chip manufacturer, producing advanced semiconductors used in smartphones and computers.
 
-Next, NVIDIA leads AI-related GPU with 85% market share. NVIDIA is known for its GPUs, which are critical for gaming, artificial intelligence, and deep learning.
+Next, NVIDIA leads AI-related GPU with 85% market share. NVIDIA is known for its GPUs, which are critical for gaming and AI.
 
 Lastly, Samsung has 40% of the market share in DRAM and NAND memory chips.
 
@@ -86,11 +86,21 @@ Next, we’ll dive into the semiconductor supply chain."
    - Siemens
 
 ### Script:
-"The semiconductor industry relies on four main types of companies working together. Fabless companies like NVIDIA, Qualcomm, Apple, ARM, and AMD focus on designing chips but outsource manufacturing to save costs and innovate faster. Foundries such as TSMC, Samsung, and Intel handle production, using advanced technology to create smaller, faster, and more powerful chips. Equipment makers like ASML and Applied Materials provide the machinery needed for manufacturing, driving efficiency and supporting growing demand. Finally, EDA tool makers like Synopsys, Cadence, and Siemens supply the software tools use to design complex chips quickly and effectively. Together, these players form a dynamic ecosystem that powers the semiconductor industry."
+"The semiconductor industry relies on four main different types of company.
 
-"I've covered supply chain of semiconductor industry. Understanding supply chain is one of the most important for better investment."
+The first type is fabless. The fabless companies like NVIDIA, Qualcomm, Apple, ARM, and AMD focus on designing chips but outsource manufacturing to foundry companies. 
 
-"Finally, let me now turn to strategies for inversting in semiconductor industry."
+Foundries such as TSMC, Samsung, and Intel handle production, using advanced technology to create smaller, faster, and more power efficienty chips. They have to buy incredibly expensive equiments for manufacturing from Equipment makers. 
+
+Equipment makers like ASML and Applied Materials provide the machines for manufacturing. Among them, ASML holds dominent position accounting for more than 50% of the market share.
+
+Finally, EDA tool makers like Synopsys, Cadence, and Siemens supply the software tools for designing complex chips quickly and effectively. 
+
+In summary, these players work together as a team, driving the growth of the semiconductor industry.
+
+"I've talked about supply chain. Understanding it is very important to make better investment decisions."
+
+"Finally, let me move to the strategies for inverstment."
 
 ---
 
@@ -107,7 +117,7 @@ Next, we’ll dive into the semiconductor supply chain."
    - Hold stocks for at least **5 years** for compounding growth.
 
 ### Script:
-"Investing in semiconductors offers great opportunities in today’s market, and understanding key strategies can help you make smart decisions. One simple way is through direct stock investments in top companies like TSMC and NVIDIA. Another option is ETF investments, such as SOXX and SMH, which give you spread-out investments in the semiconductor sector for reducing risk. Speaking of risk, diversification is important. Balancing with other sectors can protect your portfolio from market volatility."
+"Understanding key strategies also can help you make smart decisions. One simple way is through direct stock investments in top companies like TSMC and NVIDIA. Another option is ETF investments, such as SOXX and SMH, which give you spread-out the risks. Speaking of risk, diversification is important. It balance semiconductor stocks with other sectors to reduce risks."
 
 "Last but not least, a long-term holding strategy is important. By holding semiconductor stocks for at least five years, you can make profit, even in a fluctuating market."
 
@@ -124,9 +134,15 @@ Next, we’ll dive into the semiconductor supply chain."
 - Investing in semiconductors means joining the future of technology."
 
 ### Script:
-"Semiconductor investing offers big opportunities as the market is expected to reach $1 trillion by 2030, driven by growing demand in AI, cars, and electronics.
+"Semiconductor investing offers big opportunities as the market is expected to reach $1 trillion by 2030.
 
-Key players include fabless companies like NVIDIA, which design chips, and foundries like TSMC, which manufacture them. Long-term investment in these companies can bring steady returns despite market ups and downs. Remember, investing in semiconductors isn’t just about making money—it’s about being part of the future of technology."
+And we need to understand supply chain and rememeber key players for each types of company. 
+
+Long-term investment can yeild profit despite the ups and downs in stock market.
+
+And please keep researching to stay updated on industry trends.
+
+Finally, please remember, investing in semiconductors isn’t just about making money—it’s about being part of technological revolution."
 
 ---
 
