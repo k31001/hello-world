@@ -117,11 +117,11 @@ In summary, these players work together as a team, driving the growth of the sem
    - Hold stocks for at least **5 years** for compounding growth.
 
 ### Script:
-"Understanding key strategies also can help you make smart decisions. One simple way is through direct stock investments in top companies like TSMC and NVIDIA. Another option is ETF investments, such as SOXX and SMH, which give you spread-out the risks. Speaking of risk, diversification is important. It balance semiconductor stocks with other sectors to reduce risks."
+"Understanding key strategies also can help you make smart decisions. One simple way is through direct stock investments in top companies like TSMC and NVIDIA. Another option is ETF investments, such as SOXX and SMH, which give you spread-out the risks. Specifically, diversification is very important in order to reduce risks by balancing semiconductor stocks with other sectors."
 
-"Last but not least, a long-term holding strategy is important. By holding semiconductor stocks for at least five years, you can make profit, even in a fluctuating market."
+"Last but not least, a long-term holding strategy is important. By holding semiconductor stocks for at least five years, you can make profit, even in a fluctuating market situation."
 
-"Finally, we have discussed all the key points. Let’s move on to the conclusion."
+"Finally, we have discussed all the key points: industry trends, supply chain, and strategies. Let’s move on to the conclusion."
 
 ---
 
@@ -134,13 +134,13 @@ In summary, these players work together as a team, driving the growth of the sem
 - Investing in semiconductors means joining the future of technology."
 
 ### Script:
-"Semiconductor investing offers big opportunities as the market is expected to reach $1 trillion by 2030.
+"Semiconductor investing offers significant opportunities, with the market projected to reach approximitely $1 trillion by 2030.
 
-And we need to understand supply chain and rememeber key players for each types of company. 
+And we need to understand supply chain and we have to remind key players for each types of company. 
 
-Long-term investment can yield profit despite the ups and downs in stock market.
+Long-term investment can also make profits in a fluctuating stock market.
 
-And please keep researching to stay updated on industry trends.
+And please continue researching to stay updated on industry trends.
 
 Finally, please remember, investing in semiconductors is not just about making money—it’s about being part of technological revolution."
 
