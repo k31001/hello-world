@@ -58,11 +58,11 @@ So, let's get started.
    - Samsung holds a 40% market share in memory chips.
 
 ### Script:
-"On this slide, we see three main companies in the semiconductor industry. First is TSMC, which holds a huge 50% of the market. TSMC is the world’s largest chip manufacturer, producing advanced semiconductors used in smartphones and computers.
+"On this slide, we see three main companies in the semiconductor industry. First is TSMC, which holds a huge 50% of the market. TSMC is the world’s largest chip manufacturer, producing the most advanced semiconductors for smartphones and computers.
 
 Next, NVIDIA leads AI-related GPU with 85% market share. NVIDIA is known for its GPUs, which are critical for gaming and AI.
 
-Lastly, Samsung has 40% of the market share in DRAM and NAND memory chips.
+Lastly, Samsung has 40% of the market share in memory chips like DRAM and NAND flash.
 
 These numbers show how a few companies control most of the market, influencing prices, technology, and the industry’s direction.
 
@@ -121,7 +121,7 @@ In summary, these players work together as a team, driving the growth of the sem
 
 "Last but not least, a long-term holding strategy is important. By holding semiconductor stocks for at least five years, you can make profit, even in a fluctuating market situation."
 
-"Finally, we have discussed all the key points: industry trends, supply chain, and strategies. Let’s move on to the conclusion."
+"Eventually, we have discussed all the key points: industry trends, supply chain, and strategies. Let’s move on to the conclusion."
 
 ---
 
