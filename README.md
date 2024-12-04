@@ -1,4 +1,4 @@
-# Understanding Semiconductor Companies (for Inverstor)
+# Understanding Semiconductor Companies (for Investor)
 
 "Good morning everyone. My name is Eric and I'm from Memory Division and responsible for SSD controller development. As you can see on the screen, I want to talk about Semiconductor Companies for Inverstor. In my presentation I'll focus on three main points. 
 
