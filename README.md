@@ -1,8 +1,8 @@
 # Understanding Semiconductor Companies (for Investor)
 
-"Good morning everyone. My name is Eric and I'm from Memory Division and responsible for SSD controller development. As you can see on the screen, I want to talk about Semiconductor Companies for Inverstor. In my presentation I'll focus on three main points. 
+"Good morning everyone. My name is Eric and I'm from Memory Division and responsible for SSD controller development. As you can see on the screen, I will talk about Semiconductor Industry for Investor. In my presentation I will focus on three main points.
 
-First of all I'll shortly introduce the industry trend. Then I'll explain supply chains of semiconductor companies for better understanding of this area. Finally, I'll end with offering strategies for inverstor.
+First of all I'll shortly introduce the industry trend. Then I'll dive into supply chains of semiconductor industry. Finally, I'll end with offering strategies for investor.
 
 It should take around 10 minutes to cover these points. 
 
